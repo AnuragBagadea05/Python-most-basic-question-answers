@@ -1,0 +1,72 @@
+#Python most basic question answers#
+
+
+Q1 : who developed a python programing launguage?
+Ans: Python was created by 'Guido van Rossum', and first released on February 20, 1991 and created on C programming language.
+
+
+Q2 : which type of programming does python support?
+Ans: object-oriented programming 
+
+
+Q3: is python case sensetive when dealing with identifiers?
+Ans: Yes, python treat uppercase and lowercase characters diffrently.
+
+
+Q4 : what is the correct extension of python file?
+Ans: .py
+
+
+Q5 : is python code complied or interpreted?
+Ans: python is both complied and interpreted language which means when we run a python code , first it get compiled and then interpreted code line by line.
+
+
+Q6 : Name a few block of code used to define in python programming language?
+Ans: Indentation, braces(){}[]
+
+
+Q7: state a character used to give single- line comments in python?
+Ans: # is used to comment a line in python
+
+
+Q8: Mention function which can help us to find the version of python that we are currently working on?
+Ans: sys.version
+
+
+Q9: what does pip stands for python?
+Ans: preferred installer program
+
+
+Q10 : python support the creation of anonymous function at runtime, using a contruct ccalled _ _ _ ?
+Ans: Lambda
+
+
+Q11 : Mention few built in fuctions in python?
+Ans: 
+print()
+type()
+input()
+max()
+min()
+sum()
+
+
+Q12 : what is the maximum possible length of an identifier in python?
+Ans: 79 characters
+
+
+Q13 : what are the benefits of using python?
+Ans: 
+Data science.
+Web development.
+System automation and administration.
+Extensive libraries.
+Large developer community.
+Wide range of use cases.
+
+Q14: how is memory managed in python? 
+Ans: Memory in Python is managed by Python private heap space
+
+
+Q15 : is indentation required in python?
+Ans: Yes, indentation is most importance to code in python
